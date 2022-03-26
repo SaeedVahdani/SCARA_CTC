@@ -1,2 +1,2 @@
-# SCARA_CTC
-SCARA_CTC
+# SCARA Robot
+Computed-Torque Controller Design
